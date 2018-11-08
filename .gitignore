@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+venv
+.idea
+logloss_tests.ipynb
+data
+sandbox
+source/saved_models
+source/game/__pychache__
+source/network_training/__pychache__
